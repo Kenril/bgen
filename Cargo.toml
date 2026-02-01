@@ -5,3 +5,7 @@ edition = "2024"
 authors = ["Erik Munk-Jakobsen <munk.jakobsen.erik@gmail.com>"]
 
 [dependencies]
+log4rs = "1.4.0"
+svg2pdf = "0.13.0"
+serde = "1.0.228"
+clap = "4.5.56"
